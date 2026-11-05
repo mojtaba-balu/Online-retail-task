@@ -1,0 +1,6 @@
+Model,Precision@500
+LogReg,0.71
+DecisionTree,0.63
+RandomForest,0.694
+GradientBoosting,0.71
+RFM Baseline,0.618
